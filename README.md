@@ -9,5 +9,5 @@ List any resources used here, or simply put `N/A` if not applicable.
 | Student Name | CCID      |
 | ------------ | --------- |
 | `Seth Close` | `srclose` |
-| `Kyle Nguyen`|  `kmn1`   |
-| `Kishan`     |`kprasad001`|
+| `Kyle Nguyen` | `kmn1` |
+| `Kishan Prasad`     | `kprasad001` |
