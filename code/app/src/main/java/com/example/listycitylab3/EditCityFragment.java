@@ -59,8 +59,6 @@ public class EditCityFragment extends DialogFragment {
         EditCityFragment fragment = new EditCityFragment();
         Bundle args = new Bundle();
 
-        System.out.println(city.getName());
-
         args.putSerializable("City", city);
         fragment.setArguments(args);
 

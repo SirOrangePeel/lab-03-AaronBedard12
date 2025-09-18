@@ -62,10 +62,10 @@ public class MainActivity extends AppCompatActivity implements AddCityFragment.A
         });
 
         cityList.setOnItemClickListener((adapterView, item, position, id) ->{
-                cityPosition = position;
+            cityPosition = position;
 
-                EditCityFragment fragment =  EditCityFragment.newInstance(dataList.get(position));
-                fragment.show(getSupportFragmentManager(), "Edit City");
+            EditCityFragment fragment =  EditCityFragment.newInstance(dataList.get(position));
+            fragment.show(getSupportFragmentManager(), "Edit City");
         });
     }
 }
