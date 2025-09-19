@@ -10,4 +10,4 @@ List any resources used here, or simply put `N/A` if not applicable.
 | ------------ | --------- |
 | `Seth Close` | `srclose` |
 | `Kyle Nguyen` | `kmn1` |
-| `Kishan Prasad`     | `kprasad001` |
+| `Kishan Prasad`     | `kkprasad` |
